@@ -1,6 +1,6 @@
 # HACKATHON ON MLGrid 36 — Fundamentos de Inteligência Artificial
 
-> Nota: 19.5
+> ### Nota: 19.5
 
 ---
 
